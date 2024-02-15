@@ -9,4 +9,9 @@ Uploading files under the bucket section and creating our own website.
 
 ![Screenshot 2024-02-15 194521](https://github.com/LIANNAKA/aws/assets/152191814/1c940ea1-58e2-4296-96cd-e2971443521d)
 
+![Screenshot 2024-02-15 194243](https://github.com/LIANNAKA/aws/assets/152191814/7e8270b8-d1e4-4390-8d4e-ce9c10e414f1)
+
+
+
+
 
